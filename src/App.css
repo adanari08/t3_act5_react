@@ -1,0 +1,42 @@
+.App {
+  max-width: 500px;
+  margin: 30px auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.tarjeta {
+  background-color: #d1eaef;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 15px 0;
+}
+
+.contador button {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.lista-tareas input {
+  padding: 6px;
+  margin-right: 5px;
+}
+
+.lista-tareas button {
+  cursor: pointer;
+}
+
+.lista-tareas ul {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
+
+.lista-tareas li {
+  background-color: #910f91;
+  margin: 5px 0;
+  padding: 6px 10px;
+  border-radius: 5px;
+}
