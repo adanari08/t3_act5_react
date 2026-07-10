@@ -45,8 +45,9 @@ Porque React usa la `key` para identificar cada elemento de la lista y saber cu√
 
 **d) Pega el enlace de tu repositorio de GitHub.**
 
-https://github.com/adanari08/t3_act5_react/tree/main
+https://github.com/adanari08/t3_act5_react
+
 
 **e) Pega el enlace de tu proyecto ya desplegado en GitHub Pages.**
 
-[PEGAR AQU√ç EL LINK DEL DEPLOY, ej: https://tu-usuario.github.io/t3_act5_react/]<img width="925" height="1500" alt="image" src="https://github.com/user-attachments/assets/c675685e-153d-4310-954d-095db9d794f8" />
+https://adanari08.github.io/t3_act5_react/
