@@ -1,15 +1,15 @@
 # t3_act5_react
 
-Este es mi primer proyecto en React 🎉. Lo hice para la actividad "Introducción a React" usando **Vite + React**, siguiendo el video del curso de React desde cero.
+Este es mi primer proyecto en React . Lo hice para la actividad "Introducción a React" usando **Vite + React**, siguiendo el video del curso de React desde cero.
 
 ## ¿Qué hace el proyecto?
 
-Es una mini aplicación sencilla que junta lo que fui aprendiendo:
+Es una mini aplicación lo cual contiene:
 
-1. **Saludo.jsx** → un componente funcional simple, solo muestra un título y un texto.
-2. **TarjetaPerfil.jsx** → un componente que recibe **props** (nombre, edad, carrera) y las muestra en pantalla.
-3. **Contador.jsx** → un componente que usa **useState** para llevar la cuenta de un número, con botones para sumar, restar y reiniciar.
-4. **ListaTareas.jsx** → una lista de tareas donde puedo agregar y eliminar tareas. Usa `useState` para guardar el arreglo de tareas y `.map()` para pintarlas en pantalla.
+1. **Saludo.jsx** :un componente funcional simple, solo muestra un título y un texto.
+2. **TarjetaPerfil.jsx** : un componente que recibe **props** (nombre, edad, carrera) y las muestra en pantalla.
+3. **Contador.jsx** : un componente que usa **useState** para llevar la cuenta de un número, con botones para sumar, restar y reiniciar.
+4. **ListaTareas.jsx** : una lista de tareas donde puedo agregar y eliminar tareas. Usa `useState` para guardar el arreglo de tareas y `.map()` para pintarlas en pantalla.
 
 ## Cómo correrlo en mi computadora
 
@@ -45,8 +45,8 @@ Porque React usa la `key` para identificar cada elemento de la lista y saber cu�
 
 **d) Pega el enlace de tu repositorio de GitHub.**
 
-[PEGAR AQUÍ EL LINK DEL REPO, ej: https://github.com/tu-usuario/t3_act5_react]
+https://github.com/adanari08/t3_act5_react/tree/main
 
 **e) Pega el enlace de tu proyecto ya desplegado en GitHub Pages.**
 
-[PEGAR AQUÍ EL LINK DEL DEPLOY, ej: https://tu-usuario.github.io/t3_act5_react/]
+[PEGAR AQUÍ EL LINK DEL DEPLOY, ej: https://tu-usuario.github.io/t3_act5_react/]<img width="925" height="1500" alt="image" src="https://github.com/user-attachments/assets/c675685e-153d-4310-954d-095db9d794f8" />
